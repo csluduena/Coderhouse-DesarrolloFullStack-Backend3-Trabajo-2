@@ -148,6 +148,6 @@ El proyecto cumple con los objetivos propuestos, integrando:
 -   Pruebas exhaustivas para garantizar la calidad del código.
 -   Despliegue eficiente mediante Docker.
 
-Este proyecto representa una sólida entrega final, lista para escalabilidad y mantenimiento en entornos productivos. 🌟
+Este proyecto representa una sólida entrega final, lista para escalabilidad y mantenimiento en entornos productivos.🌟
 
 ```
