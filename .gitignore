@@ -1,0 +1,6 @@
+.env
+node_modules
+code_project.txt
+generateCodeSnapshot.js
+generateTree.js
+project_snapshot.txt
