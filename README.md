@@ -5,7 +5,7 @@ Segunda Entrega de Backend 3 - Proyecto Final Carrera FullStack 🚀
 **AdoptMe**
 -----------
 
-Este proyecto forma parte de la segunda entrega del Backend 3 en la carrera FullStack de CoderHouse. El objetivo principal ha sido desarrollar una API robusta para la gestión de adopciones de mascotas, implementando buenas prácticas de desarrollo, pruebas funcionales y despliegue mediante contenedores Docker.
+Este proyecto forma parte de la segunda entrega de Backend 3 en la carrera FullStack de CoderHouse. El objetivo principal ha sido desarrollar una API robusta para la gestión de adopciones de mascotas, implementando buenas prácticas de desarrollo, pruebas funcionales y despliegue mediante contenedores Docker.
 
 * * * * *
 
