@@ -13,9 +13,9 @@ Este proyecto forma parte de la segunda entrega de Backend 3 en la carrera FullS
 ----------------------------------
 
 -   **Perfil DockerHub:**\
-    <https://hub.docker.com/u/csluduena>
+    < https://hub.docker.com/u/csluduena >
 -   **Imagen del proyecto:**\
-    <https://hub.docker.com/repository/docker/csluduena/adoptme/general>
+    < https://hub.docker.com/repository/docker/csluduena/adoptme/general >
 
 * * * * *
 
